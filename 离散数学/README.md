@@ -1,4 +1,4 @@
-<a src="https://www.bilibili.com/video/BV1RA411C7ma/?spm_id_from=333.337.search-card.all.click&vd_source=845d210c31138471b661ff1d48d60262]">电子科大-离散数学</a>
+[电子科大-离散数学](https://www.bilibili.com/video/BV1RA411C7ma/?spm_id_from=333.337.search-card.all.click&vd_source=845d210c31138471b661ff1d48d60262)
 时长：18:15:38
 
 1.《离散数学及其应用》第2版或第3版，傅彦等，高等教育出版社 （主教材）
